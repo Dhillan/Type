@@ -1,0 +1,50 @@
+123456789 Numbers
+Hexadecimal 9A
+2nd Generation
+3rd Generation
+4th Generation
+1st, 2nd, 3rd
+Website.com
+Serial ATA
+Web1.0 vs Web2.0
+X64 Framework
+X86 Framework
+National backbone
+001101010110 Binary
+Username/Password
+192.168.0.1 IP
+25565 Port
+Graphical UI
+Gamma correction
+Dial-Up connection
+PCI-e X16
+PCI-e X8
+SLI/Crossfire
+3G and 4G
+DDR3 vs DDR2
+VRAM/RAM
+GDDR5 vs DDR3
+SATA 2.0
+SATA 3.0
+6GBPS read
+Made in 2014
+Linked lists
+BrokenSpacebar
+Socket 1155
+Socket 1156
+2048 = 2^11
+i5 4670K
+FX 8350
+APU and CPU
+4.4Ghz overclocked
+2.0Ghz underclocked
+GTX 780 Ti
+VGA vs DVI
+CD 700mb
+DVD 4.37 Gb
+Blu-ray 25 Gb
+50Gb dual layer
+12cm = 4.7inches
+Referential integrity
+TKinter and TK
+Recursion Recursion Rec

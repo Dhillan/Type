@@ -1,0 +1,82 @@
+Cable modem
+Clean install
+Clean room
+Clip art
+Command prompt
+Batch Process
+You're your
+Email@address
+Blu-ray disk
+Motherboard sizes
+CD-ROM disk
+CD-R disk
+DVD-R disk
+CD-RW disk
+Conventional PCI
+Channel I/O
+I/O Socket
+Expansion card
+Floppy Disk
+Disk Drive
+Executable command
+Basic Input/Output
+Mini-VGA
+Non-Volatile
+Pen drive
+Serial bus
+Personal computer
+PCI Express
+Solid-State drive
+Asynchronous data
+Synchronous data
+Semi-Colon;
+Regular-Colon:
+Memory type
+Form factors
+C++ Programming
+C# Programming
+// Means comment
+Pac-Man
+One&Two
+^ Means Power
+Anti-Spyware
+FLASH Memory
+AND Gates
+OR Gates
+XAND Gate
+XOR Gate
+Operating System
+File-allocation Table
+.pdf files
+.txt files
+.mp3 music
+.doc document
+Read-Only memory
+Read-Write memory
+Lossy compression
+Lossless compression
+Domain name
+IP address
+Internet protocol
+Transfer protocol
+QWERTY keyboard
+CaPiTaLiSaTiOn MaTtErS!
+print "hi!"
+Resistors Resist
+Wi-Fi Communication
+Rationalising databases
+anti-virus software
+@ Means at
+Logic gates
+Sudo/Pseudo
+Runtime error
+Compilation error
+HD DVD
+Web services
+Daisy-chain
+Radio button
+Red Hat
+Pentium processor
+Haswell processor
+Broadwell processor
+Core2Duo processor
